@@ -1,0 +1,3 @@
+Sitemap: https://klinbus.netlify.app/sitemap.xml
+User-agent: *
+Allow: https://klinbus.netlify.app
